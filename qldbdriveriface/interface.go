@@ -4,7 +4,7 @@ package qldbdriveriface
 
 import (
 	"context"
-	"github.com/awslabs/amazon-qldb-driver-go/qldbdriver"
+	"github.com/mousedownmike/amazon-qldb-driver-go/qldbdriver"
 )
 
 type QLDBDriverAPI interface {
